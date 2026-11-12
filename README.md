@@ -13,8 +13,7 @@ learners:
 -   LightGBM
 -   CatBoost
 
-Their out-of-fold (OOF) prediction probabilities are used to train a
-logistic-regression meta-classifier. Bayesian hyperparameter
+Bayesian hyperparameter
 optimization is applied to the base learners used **inside the stacking
 branch**. The standalone XGBoost, LightGBM, and CatBoost models are
 trained separately with fixed parameters and serve as comparison
