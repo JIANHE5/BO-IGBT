@@ -20,7 +20,7 @@ trained separately with fixed parameters and serve as comparison
 baselines.
 
 The implementation also provides classification reports, learning
-curves, and built-in feature-importance analysis. 
+curves, and built-in feature-importance analysis..
 
 ## Main components
 
