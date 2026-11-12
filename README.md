@@ -39,7 +39,7 @@ curves, and built-in feature-importance analysis.
 
 ## Repository files
 
--   `BO_IGBT_fixed_baselines_BO_stacking.ipynb`: Jupyter Notebook
+-   `BO_IGBT_demo.ipynb`: Jupyter Notebook
     implementation.
 -   `README.md`: project overview and quick-start instructions.
 
@@ -108,5 +108,5 @@ data when the input MAT files are absent.
 4.  Set `ALLOW_SYNTHETIC_IF_MISSING = False` for real-data analysis.
 5.  Run the Jupyter script:
 
-Open and run `BO_IGBT_fixed_baselines_BO_stacking.ipynb`
+Open and run `BO_IGBT_demo.ipynb`
 sequentially in Jupyter.
